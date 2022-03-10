@@ -1,0 +1,38 @@
+.gridContent1 {
+    background-color: rgb(2, 58, 21);
+    color: white;
+}
+
+.coloredWord {
+    color: #F5A19D;
+    text-decoration: none;
+}
+
+.header {
+    background-color: rgb(2, 58, 21);
+    color: white;
+}
+
+.gridContent3 {
+    margin-top: -5%;
+    text-align: center;
+    padding: 10% 25%;
+    background-color: #FBE3DF;
+}
+
+.preFooter {
+    background-color: #003813;
+    color: white;
+    text-align: center;
+    padding: 10% 25%;
+}
+
+.footer {
+    background-color: #003813;
+    text-align: center;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
