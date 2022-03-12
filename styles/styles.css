@@ -84,12 +84,12 @@ h1 {
 
 h2 {
     font-family: 'Abril Fatface', cursive;
-    font-size: clamp(2.5em, 1em + 1vw, 4em);
+    font-size: clamp(1.5em, 1em + 1vw, 4em);
 }
 
 h3 {
     font-family: 'Abril Fatface', cursive;
-    font-size: clamp(2em, 1em + 1vw, 3.5em);
+    font-size: clamp(1em, 1em + 1vw, 3.5em);
     margin-bottom: 2%;
 }
 
