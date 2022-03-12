@@ -77,6 +77,11 @@ body {
     min-width: 250px;
 }
 
+.gridContent1 h1 {
+    margin-left: 0px;
+    margin-right: auto;
+}
+
 h1 {
     font-size: clamp(3em, 1em + 1vw, 6.5em);
     font-family: 'Abril Fatface', cursive;
